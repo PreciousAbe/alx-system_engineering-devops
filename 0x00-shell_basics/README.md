@@ -1,1 +1,2 @@
-My second readme file
+# ALX
+Welcome to ALX Shell basics
